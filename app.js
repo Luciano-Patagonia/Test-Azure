@@ -1,11 +1,11 @@
 process.stdout.write("dsdsd");
 
 
-var nombre = "Marcos Rivas";
+var nombre = "Luciano";
 
 //console.log(`\n\nHello ${nombre}`);
 var nombre = function saludo(){
-	console.log("Holi");
+	console.log("Holas");
 };
 
 nombre();
